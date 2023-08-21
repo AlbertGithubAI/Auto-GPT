@@ -66,6 +66,8 @@ Development of this free, open-source project is made possible by all the <a hre
 
 ## ⚠️ OpenAI API Keys Configuration ⚠️ 
 
+666
+
 Obtain your OpenAI API key from: https://platform.openai.com/account/api-keys.
 
 To use OpenAI API key for Auto-GPT, you **NEED** to have billing set up (AKA paid account).
