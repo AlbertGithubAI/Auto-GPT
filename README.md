@@ -268,6 +268,7 @@ To switch to either, change the `MEMORY_BACKEND` env variable to the value that 
 
 ### Redis Setup
 > _**CAUTION**_ \
+> Add a line
 1. Install docker (or Docker Desktop on Windows)
 2. Launch Redis container
     ```bash
