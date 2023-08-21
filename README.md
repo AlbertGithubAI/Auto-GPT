@@ -12,7 +12,7 @@
 
 
 
-This is a block
+This is a block of blank lines
 
 
 
