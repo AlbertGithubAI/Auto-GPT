@@ -1,10 +1,17 @@
+# Auto-GPT: An GPT-4 Experiment
 # Auto-GPT: An Experiment
 [![Unit Tests](https://img.shields.io/github/actions/workflow/status/Significant-Gravitas/Auto-GPT/ci.yml?label=unit%20tests)](https://github.com/Significant-Gravitas/Auto-GPT/actions/workflows/ci.yml)
 [![Discord Follow](https://dcbadge.vercel.app/api/server/autogpt?style=flat)](https://discord.gg/autogpt)
 [![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/auto-gpt?style=social)](https://github.com/Significant-Gravitas/Auto-GPT/stargazers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/siggravitas?style=social)](https://twitter.com/SigGravitas)
 
-## 💡 Get help - [Q&A](https://github.com/Significant-Gravitas/Auto-GPT/discussions/categories/q-a) or [Discord 💬](https://discord.gg/autogpt)
+A
+B
+C
+## 💡 Get help - May Day [Q&A]HaHa(https://github.com/Significant-Gravitas/Auto-GPT/discussions/categories/q-a) or [Discord 💬](https://discord.gg/autogpt)
+D
+E
+F
 
 <hr/>
 ## 💡 Get help - [Q&A](https://github.com/Significant-Gravitas/Auto-GPT/discussions/categories/q-a) or [Discord 💬](https://discord.gg/autogpt)
@@ -13,6 +20,17 @@
 ## 💡 Get help - [Q&A](https://github.com/Significant-Gravitas/Auto-GPT/discussions/categories/q-a) or [Discord 💬](https://discord.gg/autogpt)
 
 <hr/>
+
+
+
+
+
+This is a block of blank lines
+
+
+
+
+
 
 ### 🔴 🔴 🔴  Urgent: USE `stable` not `master`  🔴 🔴 🔴
 
@@ -71,6 +89,8 @@ Development of this free, open-source project is made possible by all the <a hre
 - ElevenLabs Key (If you want the AI to speak)
 
 ## ⚠️ OpenAI API Keys Configuration ⚠️ 
+
+666
 
 Obtain your OpenAI API key from: https://platform.openai.com/account/api-keys.
 
@@ -272,7 +292,7 @@ To switch to either, change the `MEMORY_BACKEND` env variable to the value that 
 
 ### Redis Setup
 > _**CAUTION**_ \
-This is not intended to be publicly accessible and lacks security measures. Therefore, avoid exposing Redis to the internet without a password or at all
+> Edit a line
 1. Install docker (or Docker Desktop on Windows)
 2. Launch Redis container
     ```bash
@@ -383,6 +403,8 @@ usage: data_ingestion.py [-h] (--file FILE | --dir DIR) [--init] [--overlap OVER
 
 Ingest a file or a directory with multiple files into memory. Make sure to set your .env before running this script.
 
+ggg
+
 options:
   -h, --help               show this help message and exit
   --file FILE              The file to ingest.
@@ -461,6 +483,17 @@ This experiment aims to showcase the potential of GPT-4 but comes with some limi
 2. May not perform well in complex, real-world business scenarios. In fact, if it actually does, please share your results!
 3. Quite expensive to run, so set and monitor your API key limits with OpenAI!
 
+
+
+
+
+
+
+
+
+
+
+
 ## 🛡 Disclaimer
 
 Disclaimer
@@ -520,7 +553,7 @@ pytest --cov=autogpt --without-integration --without-slow-integration
 
 This project uses [flake8](https://flake8.pycqa.org/en/latest/) for linting. We currently use the following rules: `E303,W293,W291,W292,E305,E231,E302`. See the [flake8 rules](https://www.flake8rules.com/) for more information.
 
-To run the linter, run the following command:
+To run the linter:
 
 ```bash
 flake8 autogpt/ tests/
