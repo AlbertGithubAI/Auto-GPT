@@ -8,7 +8,10 @@
 A
 B
 C
-## 💡 Get help - May Day [Q&A](https://github.com/Significant-Gravitas/Auto-GPT/discussions/categories/q-a) or [Discord 💬](https://discord.gg/autogpt)
+## 💡 Get help - May Day [Q&A]HaHa(https://github.com/Significant-Gravitas/Auto-GPT/discussions/categories/q-a) or [Discord 💬](https://discord.gg/autogpt)
+D
+E
+F
 
 <hr/>
 ## 💡 Get help - [Q&A](https://github.com/Significant-Gravitas/Auto-GPT/discussions/categories/q-a) or [Discord 💬](https://discord.gg/autogpt)
